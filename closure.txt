@@ -1,0 +1,18 @@
+DESCRIPTION
+
+When we declare a new function inside an aleady declared function this is known as closure.
+The new function remembers the environment in which it was created,
+i.e. it remembers the variables and parameters of function whose it is part.
+Whenever we call this new function it has access to its own variables as well as varibales and
+ parameters of the outer function, also it has access to global variables
+
+ 
+
+
+
+References:->
+	1. http://javascriptissexy.com/understand-javascript-closures-with-ease/
+	
+	2. https://www.youtube.com/watch?v=O312eN5J2bc&list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c
+
+	3. http://www.w3schools.com/js/js_function_closures.asp 
